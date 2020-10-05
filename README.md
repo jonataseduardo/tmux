@@ -2,7 +2,7 @@
 =====
 
 Fork of 
-![](https://github.com/gpakosz/.tmux)
+![https://github.com/gpakosz/.tmux](https://github.com/gpakosz/.tmux)
 with a better instalation and seameless integration with (neo)vim splits
 
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
